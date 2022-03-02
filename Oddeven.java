@@ -1,3 +1,4 @@
+import java.io.*;
 class Oddeven 
  {
     public static void main(String args [])
